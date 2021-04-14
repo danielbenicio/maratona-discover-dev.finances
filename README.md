@@ -29,14 +29,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JavaScript](https://pt.wikipedia.org/wiki/JavaScript)
 
 ## Layout 📺︎
-#### Desktop Screenshot
+#### Desktop
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
 <!-- Responsive, 1440 x 900, 50% (Laptop L - 1440px)-->
     <img src="./images/desktop-index-null.png" width="400px">
     <img src="./images/desktop-index.png" width="400px">
 </div>
 
-#### Mobile Screenshot
+#### Mobile 
 <div style="display: flex; flex-direction: 'row';">
 <!-- Responsive, 425 x 900, 60% (Mobile L - 425px)-->
     <img src="./images/mobile-index-null.png" width="180">
