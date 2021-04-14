@@ -10,7 +10,7 @@
 </p>
 
 # Dev.Finance💲
-Projeto desenvolvido para administrar melhor ganhos e gastos. Realizado na #MaratonaDiscover com a @Rocketseat🚀. Dev.Finance$
+Projeto desenvolvido para administrar melhor ganhos e gastos. Realizado na #MaratonaDiscover com a @Rocketseat🚀.
 
 #### Funcionalidades
 * Site para administrar ganhos e gastos (controle financeiro).
