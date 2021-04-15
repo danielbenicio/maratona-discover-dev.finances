@@ -65,8 +65,6 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 
 ## Contato ✉️
 
-LinkedIn:
-https://www.linkedin.com/in/danielbenicio/">
-        
-Email:
-danielbenicio123@gmail.com
+[![https://www.linkedin.com/in/danielbenicio/](https://img.shields.io/badge/-Daniel%20Benicio-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danielbenicio/)
+
+[![mailto:danielbenicio123@gmail.com](https://img.shields.io/badge/danielbenicio123@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:danielbenicio123@gmail.com)
